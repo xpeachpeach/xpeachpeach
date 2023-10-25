@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xpeachpeach (She/They)
+- 👋 Hi, I’m Mia aka @xpeachpeach (She/They)
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything, ideally i'd love to shadow someone trough the process
